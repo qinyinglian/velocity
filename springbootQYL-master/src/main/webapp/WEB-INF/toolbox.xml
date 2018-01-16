@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolbox>
+<data key="foo">this is foo</data>
+<tool>
+        <key>urlSign</key>
+        <scope>request</scope>
+        <class>com.github.qinyinglian.common.UrlSignUtil</class>
+</tool>
+</toolbox>
